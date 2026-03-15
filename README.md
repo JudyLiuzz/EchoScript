@@ -1,5 +1,3 @@
-# Firebase Studio
+# EchoScript
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+A smart keyboard prototype for preserving Indigenous languages in digital spaces
